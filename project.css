@@ -1,0 +1,142 @@
+*{
+    margin-left: 20px;
+}
+.hone{
+    color: orange;
+    font-size: 15px;
+}
+.htwo{
+    color: orange;
+    position: absolute;
+    top: 1px;
+    left: 20px;
+}
+.hthree{
+    color: orange;
+    font-size: 15px;
+    position: absolute;
+    left: 90px;
+    top: 28px;
+}
+li{
+    display: inline;
+}
+ul{
+    position: absolute;
+    left: 380px;
+    top: 10px;
+}
+.img1{
+    height: 500px;
+    width: 850px;
+    position: absolute;
+    left: 20px;
+}
+.btn1{
+    position: absolute;
+    top: 20px;
+    left: 730px;
+    border-radius: 20px;
+    background-color:orange;
+    color: white;
+    padding: 5px;
+}
+.one{
+    position: absolute;
+    top: 150px;
+    left: 380px;
+    color: orange;
+}
+.two{
+    position: absolute;
+    left: 320px;
+    top: 160px;
+    font-size: 45px;
+    color: white;
+}
+.one1{
+    position:absolute;
+    left :200px;
+    top:260px;
+    color:white;
+    right: 800px;
+    text-align: center;
+}
+.bt2{
+    position:absolute;
+    left:340px;
+    top:380px;
+    border-radius: 20px;
+    background-color: orange;
+    color:white;
+    padding: 10px;
+}
+.bt3{
+    position: absolute;
+    left:450px;
+    top:380px;
+    border-radius: 20px;
+    background-color:transparent;
+    color:white;
+    padding: 10px;
+}
+.four1{
+    position: absolute;
+    left:100px;
+    top:630px;
+    color:black;
+}
+.two3{
+    position: absolute;
+    left:140px;
+    top:700px;
+    color: black;
+}
+.three4{
+    position: absolute;
+    left:100px;
+    top:740px;
+    color:black;
+    width: 300px;
+    
+}
+.four5{
+    position: absolute;
+    left:100px;
+    top:780px;
+    color:black;
+    width: 300px;
+}
+.img2{
+    position: absolute;
+    left:440px;
+    top:600px;
+    width: 200px;
+    height: 260px;
+}
+.img3{
+    position: absolute;
+    left:660px;
+    top:600px;
+    width: 200px;
+    height: 260px;
+}
+.six6{
+    position:absolute;
+    left:100px;
+    top:900px;
+    color:black;
+}
+.seven7{
+    position: absolute;
+    left:100px;
+    top:980px;
+    color:black;
+}
+.eight8{
+    position: absolute;
+    left:100px;
+    top:1020px;
+    color:black;
+    text-align: center;
+}
